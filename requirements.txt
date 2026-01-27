@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+textblob
+vaderSentiment
+opencv-python
+tensorflow==2.13.0
+tf-keras
+deepface==0.0.92
+matplotlib
+protobuf<4
