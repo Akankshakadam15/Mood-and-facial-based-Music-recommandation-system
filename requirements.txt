@@ -5,7 +5,7 @@ scikit-learn
 textblob
 vaderSentiment
 opencv-python
-tensorflow==2.13.0
+tensorflow==2.15.0
 tf-keras
 deepface==0.0.92
 matplotlib
